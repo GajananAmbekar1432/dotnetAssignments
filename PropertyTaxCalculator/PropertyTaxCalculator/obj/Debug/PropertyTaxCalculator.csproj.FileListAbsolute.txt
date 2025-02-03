@@ -1,0 +1,7 @@
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\bin\Debug\PropertyTaxCalculator.exe.config
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\bin\Debug\PropertyTaxCalculator.exe
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\bin\Debug\PropertyTaxCalculator.pdb
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\obj\Debug\PropertyTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\obj\Debug\PropertyTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\obj\Debug\PropertyTaxCalculator.exe
+C:\Users\91907\Downloads\ZCON Assignments\PropertyTaxCalculator\PropertyTaxCalculator\obj\Debug\PropertyTaxCalculator.pdb
